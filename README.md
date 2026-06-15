@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="assets/favicon.svg" alt="Caesar Cipher favicon" width="80" />
+</p>
+
 # Caesar Cipher — Interactive Cryptographic Wheel
 
 > A modern, historically-inspired web app for the Caesar Cipher — featuring an animated cryptographic wheel, real-time encryption, multilingual brute-force analysis, and a Roman aesthetic that bridges ancient history with contemporary web design.

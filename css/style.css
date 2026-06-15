@@ -1018,4 +1018,10 @@ html, body {
   }
 
   .panel { height: 260px; }
+
+  .bmc-btn {
+    top: auto;
+    bottom: 20px;
+    right: 16px;
+  }
 }

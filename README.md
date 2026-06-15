@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/favicon.svg" alt="Caesar Cipher favicon" width="80" />
+  <img src="assets/favicon.svg" alt="Caesar Cipher favicon" width="160" />
 </p>
 
 # Caesar Cipher — Interactive Cryptographic Wheel

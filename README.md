@@ -1,3 +1,4 @@
+
 # Caesar Cipher — Interactive Cryptographic Wheel
 
 > A modern, historically-inspired web app for the Caesar cipher — featuring an animated cryptographic wheel, real-time encryption, multilingual brute-force analysis, and a Roman aesthetic that bridges ancient history with contemporary web design.
@@ -145,3 +146,4 @@ The floating-panel layout is inspired by the visual language of [CTRL/Shift 2026
 ---
 
 *Built by [Fabrizio Centrella](https://github.com/itsfab04)*
+

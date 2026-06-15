@@ -1,7 +1,7 @@
 
 # Caesar Cipher — Interactive Cryptographic Wheel
 
-> A modern, historically-inspired web app for the Caesar cipher — featuring an animated cryptographic wheel, real-time encryption, multilingual brute-force analysis, and a Roman aesthetic that bridges ancient history with contemporary web design.
+> A modern, historically-inspired web app for the Caesar Cipher — featuring an animated cryptographic wheel, real-time encryption, multilingual brute-force analysis, and a Roman aesthetic that bridges ancient history with contemporary web design.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)

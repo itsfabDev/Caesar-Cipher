@@ -52,7 +52,7 @@ No build step, no dependencies, no server required.
 
 ```bash
 # Clone the repository
-git clone https://github.com/itsfab04/caesar-cipher.git
+git clone https://github.com/itsfabDev/caesar-cipher.git
 
 # Open in browser
 open caesar-cipher/index.html

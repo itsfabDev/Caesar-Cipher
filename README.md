@@ -153,7 +153,7 @@ The floating-panel layout is inspired by the visual language of [CTRL/Shift 2026
 
 ## License
 
-[MIT](https://opensource.org/licenses/MIT) — free to use, modify, and distribute.
+MIT — free to use, modify, and distribute.
 
 ---
 
